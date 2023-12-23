@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Awesome Story"
+  name             : "AwesomeStory"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Radiology. Technology. AwesomeStory."
-  location         : "INFINITY DIMENSION SPACE"
+  location         : "INFINITY SPACE"
   email            :
   links:
     - label: "Email"
