@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "ATOM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Radiology Technology and Story"
+  bio              : "Radiology Technology       and Story"
   location         : "Somewhere"
   email            :
   links:
