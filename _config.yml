@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Radiographer ATOM"
 title_separator          : "-"
 subtitle                 : "방사선사 아톰의 기술블로그"
-name                     : "INFINITY DEMENSION SPACE"
+name                     : "ATOM"
 description              : "AwesomeStoryUniverse."
 url                      : "https://rtatom.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "ATOM"
+  name             : "Awesome Story"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Radiology. Technology. AwesomeStory."
-  location         : "Somewhere"
+  location         : "INFINITY DIMENSION SPACE"
   email            :
   links:
     - label: "Email"
