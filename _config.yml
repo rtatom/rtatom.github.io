@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : #"ATOM"
-  avatar           : "/ATOM_LOGO.jpg"
+  avatar           : "/assets/ATOM_LOGO_N.jpg"
   bio              : "Radiology. Technology. AwesomeStory."
   location         : "INFINITY SPACE"
   email            : "clarioner@gmail.com"
