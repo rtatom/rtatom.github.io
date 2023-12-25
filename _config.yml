@@ -24,9 +24,9 @@ description              : "AwesomeStory"
 url                      : "https://rtatom.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "ATOM_LOGO.png"
+teaser                   : #"ATOM_LOGO.png"
 logo                     : #
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           :  "ATOM_LOGO.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
