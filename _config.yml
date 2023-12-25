@@ -104,8 +104,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "/ATOM_LOGO.png"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : #"ATOM"
+  avatar           : "/ATOM_LOGO.png"
   bio              : "Radiology. Technology. AwesomeStory."
   location         : "INFINITY SPACE"
   email            : "clarioner@gmail.com"
