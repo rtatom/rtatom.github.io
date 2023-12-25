@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ATOM_LOGO.png"
+  name             : "/ATOM_LOGO.png"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Radiology. Technology. AwesomeStory."
   location         : "INFINITY SPACE"
