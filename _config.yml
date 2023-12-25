@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Radiographer ATOM"
+title                    : #"Radiographer ATOM"
 title_separator          : "-"
 subtitle                 : "방사선사 아톰의 기술블로그"
 name                     : "ATOM"
@@ -25,7 +25,7 @@ url                      : "https://rtatom.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #
-logo                     : #
+logo                     : "/assets/ATOM_LOGO_N.jpg"
 masthead_title           : #
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : #"ATOM"
-  avatar           : "/assets/ATOM_LOGO_N.jpg"
+  avatar           : #
   bio              : "Radiology. Technology. AwesomeStory."
   location         : "INFINITY SPACE"
   email            : "clarioner@gmail.com"
