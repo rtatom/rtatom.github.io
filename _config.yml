@@ -25,7 +25,7 @@ url                      : "https://rtatom.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #
-logo                     : "ATOM_LOGO.png"
+logo                     : #
 masthead_title           : #
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Solideogloria"
+  name             : "ATOM_LOGO.png"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Radiology. Technology. AwesomeStory."
   location         : "INFINITY SPACE"
