@@ -106,16 +106,16 @@ analytics:
 author:
   name             : #"ATOM"
   avatar           : #
-  bio              : "Radiology. Technology. AwesomeStory."
-  location         : "INFINITY SPACE"
+  bio              : "Radiology. Technology. and AwesomeStory."
+  location         : "INFINITT SPACE"
   email            : "clarioner@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "clarioner@gmail.com"
+       url: "clarioner@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://rtatom.github.io"
+       url: "https://rtatom.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
