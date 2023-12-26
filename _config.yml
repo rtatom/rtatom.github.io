@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : #"Radiographer ATOM"
 title_separator          : "-"
-subtitle                 : "방사선사 아톰의 기술블로그"
+subtitle                 : #
 name                     : "ATOM"
 description              : #
 url                      : "https://rtatom.github.io"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #
 logo                     : "/assets/ATOM_LOGO_N.jpg"
-masthead_title           : #
+masthead_title           : " 방사선사 아톰의 기술블로그 "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
