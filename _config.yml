@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : #"Radiographer ATOM"
 title_separator          : "-"
-subtitle                 : " Radiology Technology and Awesomestory "
+subtitle                 : " Radiology Technology and Awesome Story "
 name                     : "ATOM"
 description              : #
 url                      : "https://rtatom.github.io"
