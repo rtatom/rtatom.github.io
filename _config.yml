@@ -104,13 +104,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Radiographer Atom"
+  name             : "atom"
   avatar           : "/assets/itsme.jpg"
   bio              : "Corinthians 10:31"
   location         : "Republic of Korea"
   email            : "clarioner@gmail.com"
   links:
-    - label: "Email"
+    - label: "clarioner@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "clarioner@gmail.com"
     - label: "Website"
