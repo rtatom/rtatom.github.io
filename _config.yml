@@ -104,8 +104,8 @@ analytics:
 
 # Site Author
 author:
-  name             : #"ATOM"
-  avatar           : #
+  name             : "방사선사 아톰"
+  avatar           : "/assets/itsme.jpg"
   bio              : #
   location         : "Republic of Korea"
   email            : "clarioner@gmail.com"
