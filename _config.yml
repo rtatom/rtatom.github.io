@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "atom"
+  name             : #
   avatar           : "/assets/itsme.jpg"
   bio              : "Corinthians 10:31"
   location         : "Republic of Korea"
