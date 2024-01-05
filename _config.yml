@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "방사선사 아톰"
+  name             : "Radiographer Atom"
   avatar           : "/assets/itsme.jpg"
-  bio              : #
+  bio              : "radiology,technology and Awesome story"
   location         : "Republic of Korea"
   email            : "clarioner@gmail.com"
   links:
