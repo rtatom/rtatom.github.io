@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : #
+  name             : "Corinthians 10:31"
   avatar           : "/assets/itsme.jpg"
-  bio              : "Corinthians 10:31"
+  bio              :  #
   location         : "Republic of Korea"
-  email            : "clarioner@gmail.com"
+  email            : #"clarioner@gmail.com"
   links:
     - label: "clarioner@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
