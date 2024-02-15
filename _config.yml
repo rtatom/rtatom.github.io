@@ -107,16 +107,16 @@ author:
   name             : #""
   avatar           : "/assets/itsme.jpg"
   bio              :  "1 Corinthians 10:31"
-  location         : "Republic of Korea"
-  email            : "Email"
+  location         : 
+  email            :
  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "clarioner@gmail.com"
+      url: "clarioner@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://rtatom.github.io"
+      url: "https://rtatom.github.io"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube-square"
       # url: "https://youtube.com/@DanielKim-5025"
@@ -125,10 +125,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/rtatom"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-Youtube"
+      url: "www.youtube.com/@DanielKim-5025"
 
 # Site Footer
 footer:
