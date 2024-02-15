@@ -118,7 +118,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://rtatom.github.io"
     - label: "Youtube"
-      icon: "fab fa-fw fa-youtube-square"
+      icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/@DanielKim-5025"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
