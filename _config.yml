@@ -130,7 +130,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Youtube"
-      icon: "fab fa-Youtube"
+      icon: "fab fa-fw fa-Youtube"
       url: "https://www.youtube.com/@DanielKim-5025"
 
 # Site Footer
